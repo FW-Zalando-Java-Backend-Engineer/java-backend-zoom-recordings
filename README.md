@@ -5,6 +5,9 @@ Click on the link to view the recording for each day.
 
 | 📅 Date             | 📖 Topic                                                  | 🔗 Zoom Recording Link |
 |----------------------|----------------------------------------------------------|-------------------------|
+| Jul 17, 2025         | Docker                                  | [Recording](https://us06web.zoom.us/rec/share/STfU4eHUFZ7vXA2pHG2Ep3GWNd9-_abnoAlclT1oBkTWbaSBvDFaZpJpBJay9dgy.MDWeW_kkcyR5gxkf?startTime=1752736263000) |
+| Jul 16, 2025         | Docker                                  | [Recording](https://us06web.zoom.us/rec/share/HjQ01d03puJaNH1xKKGjMml9Ace2QZaKsZirSH3rznmKjvTStX3mmXZ7nFLT3ci2.KSXx_bp8s_BxC_Us?startTime=1752651228000) |
+| Jul 15, 2025         | REST API Implementation Weather API                      | [Recording](https://us06web.zoom.us/rec/share/yH47xxld78lZQgoSsyk84QRLTgnywZsx_5E0FpEjio9YyiP5hD68GBa5RrhZDUU.jyfVClFjMO2mKEDn?startTime=1752563094000) |
 | Jul 14, 2025         | REST API Implementation                                  | [Recording](https://us06web.zoom.us/rec/share/Ra8jMWwi_n4e9H48Nl518qfD3qM4Zvxc-yPoGT5m-iIzcj5R_m2mixGZyrg5ldWa.rFtWflHpPiydjvg0) |
 | Jul 10, 2025         | REST API Implementation                                  | [Recording](https://us06web.zoom.us/rec/share/SOjKt0ZvwmcnZuWiN2xeHUpiK6aMq_3-Rb7eWcTyKcW2yEh8kU-SB1RRHl9o9bv7.f9Otit3MLCkC1hjy) |
 | Jul 9, 2025          | MongoDB Integration with Spring Boot                     | [Recording](https://us06web.zoom.us/rec/share/jW2Kf2npr2g81TqvewdMpQEwZE9ma1uo2hjgU7idg5GfaYlNnCno3zA0ClH2eGiv.us9noDP_TpH2-CjP) |
