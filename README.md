@@ -5,6 +5,9 @@ Click on the link to view the recording for each day.
 
 | 📅 Date             | 📖 Topic                                                  | 🔗 Zoom Recording Link |
 |----------------------|----------------------------------------------------------|-------------------------|
+| Jul 24, 2025         | Using JWT with Spring Security                           | [Recording](https://us06web.zoom.us/rec/share/6Uzm5pfMe-xzDDe6wVZDFYndCefJv7HaDJZXUcTK_Boz8lIjsaQUn3IzSYW1b6v_.ZbV-7JW1u3-Kgcmy)
+| Jul 23, 2025         | Using JWT with Spring Security                           | [Recording](https://us06web.zoom.us/rec/share/1qVVggsgrzJ-TJCmcupWKSLr6hKOMzAIXOpLx7qA_9TC5MWlS9dq0YfmrhZvYTCN.s1VdRfi5YNByL7PW)
+| Jul 22, 2025         | Using JWT with Spring Security                           | [Recording](https://us06web.zoom.us/rec/share/YP9maG4pxq60siV8mNBOPTBV8nrBWqZrewjSz0KTAIDQrBYUdQgmLUoNPI7Mdxej.JLCNUxYdtXXrAJYX)
 | Jul 21, 2025         | Using JWT with Spring Security                           | [Recording](https://us06web.zoom.us/rec/share/dTs2LEBc_zgawJWrR4KRmrmLDU2fF85SUxIEE3J3fbK6Li8kBxS7uF9MwEjzPp-l.EkFJZU4UCQESrdUH?startTime=1753088598000)
 | Jul 17, 2025         | Docker                                  | [Recording](https://us06web.zoom.us/rec/share/STfU4eHUFZ7vXA2pHG2Ep3GWNd9-_abnoAlclT1oBkTWbaSBvDFaZpJpBJay9dgy.MDWeW_kkcyR5gxkf?startTime=1752736263000) |
 | Jul 16, 2025         | Docker                                  | [Recording](https://us06web.zoom.us/rec/share/HjQ01d03puJaNH1xKKGjMml9Ace2QZaKsZirSH3rznmKjvTStX3mmXZ7nFLT3ci2.KSXx_bp8s_BxC_Us?startTime=1752651228000) |
