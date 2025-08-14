@@ -5,6 +5,13 @@ Click on the link to view the recording for each day.
 
 | 📅 Date             | 📖 Topic                                                  | 🔗 Zoom Recording Link |
 |----------------------|----------------------------------------------------------|-------------------------|
+| Aug 13, 2025         | AWS Intro: Deploying Spring Boot                         | [Recording](https://us06web.zoom.us/rec/share/eYgIhn5C9ptO-I-KAZip8PjCKbTbDFvfB3-9X-rzFlynBpUFZ2GZWpj01vpkdiA3.69faGJOO1tFXhnds?startTime=1755073236000)
+| Aug 5, 2025          | Microservices - OAuth 2.0 Sign in with Google            | [Recording](https://us06web.zoom.us/rec/share/wSK8-KCPvNlB5zvToS5lXzCZb4ooheFypvNrfNDXi5n7fibmI0LEHfy-011LImQU.LbBzj-YJrhEH53Oa?startTime=1754381257000)
+| Aug 4, 2025          | Microservices - OAuth 2.0 Sign in with Google            | [Recording](https://us06web.zoom.us/rec/share/NSgNQ0NPk9SN6AvJM1kWE-YqN1lSLV1vUt5ihVCn0C66XxQqAXa149yWk0p1buJc.7Cze-HLuPZN2QXNh?startTime=1754292704000)
+| Jul 31, 2025         | Microservices                                            | [Recording](https://us06web.zoom.us/rec/share/VJzbi6n3JG6FbqhJ7XWaQUHwRWKBX3O4NrYckCaJ6evXziyONHP4fsRQqORelgiT.0E7PY2yWpaH3s-6R?startTime=1753946500000)
+| Jul 30, 2025         | Microservices                                            | [Recording](https://us06web.zoom.us/rec/share/cmZHbPybHk2B2FTnu5GEzYvgFJjcd_est2BX15zSL_LnAFo4TQPNFrC5sY8Ri4KC.baSxXRNvKSruhBb4?startTime=1753859650000)
+| Jul 29, 2025         | Microservices                                            | [Recording](https://us06web.zoom.us/rec/share/EkPly59gtoV6UfOT8jtsgrivHiBPFswCpcvADv4JpGQV0AXRy0RuYTdDaLukH8_v.i-uGy01D3-R8yNZ0?startTime=1753778140000)
+| Jul 28, 2025         | Microservices                                            | [Recording](https://us06web.zoom.us/rec/share/FLyvfVv326MVRuj3_QDl3WDjHEvUfzhci_YUHgYPMxJnwzjWNk29U-5r5A_h4fXM.JGfb9xcNFCsxq5N3?startTime=1753686526000)
 | Jul 24, 2025         | Using JWT with Spring Security                           | [Recording](https://us06web.zoom.us/rec/share/6Uzm5pfMe-xzDDe6wVZDFYndCefJv7HaDJZXUcTK_Boz8lIjsaQUn3IzSYW1b6v_.ZbV-7JW1u3-Kgcmy)
 | Jul 23, 2025         | Using JWT with Spring Security                           | [Recording](https://us06web.zoom.us/rec/share/1qVVggsgrzJ-TJCmcupWKSLr6hKOMzAIXOpLx7qA_9TC5MWlS9dq0YfmrhZvYTCN.s1VdRfi5YNByL7PW)
 | Jul 22, 2025         | Using JWT with Spring Security                           | [Recording](https://us06web.zoom.us/rec/share/YP9maG4pxq60siV8mNBOPTBV8nrBWqZrewjSz0KTAIDQrBYUdQgmLUoNPI7Mdxej.JLCNUxYdtXXrAJYX)
