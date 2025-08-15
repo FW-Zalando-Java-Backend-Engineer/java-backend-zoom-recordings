@@ -5,6 +5,7 @@ Click on the link to view the recording for each day.
 
 | 📅 Date             | 📖 Topic                                                  | 🔗 Zoom Recording Link |
 |----------------------|----------------------------------------------------------|-------------------------|
+| Aug 14, 2025         | AWS Intro: Deploying Spring Boot                         | [Recording](https://us06web.zoom.us/rec/share/UdAx6K_WSaFIzurOgTf_Grt_MzKkp909B4Cu486J_jYRG9ZaeMKqZIfvdvQUlsuJ.jlc4oI3HQ6mndodX?startTime=1755157207000)
 | Aug 13, 2025         | AWS Intro: Deploying Spring Boot                         | [Recording](https://us06web.zoom.us/rec/share/eYgIhn5C9ptO-I-KAZip8PjCKbTbDFvfB3-9X-rzFlynBpUFZ2GZWpj01vpkdiA3.69faGJOO1tFXhnds?startTime=1755073236000)
 | Aug 5, 2025          | Microservices - OAuth 2.0 Sign in with Google            | [Recording](https://us06web.zoom.us/rec/share/wSK8-KCPvNlB5zvToS5lXzCZb4ooheFypvNrfNDXi5n7fibmI0LEHfy-011LImQU.LbBzj-YJrhEH53Oa?startTime=1754381257000)
 | Aug 4, 2025          | Microservices - OAuth 2.0 Sign in with Google            | [Recording](https://us06web.zoom.us/rec/share/NSgNQ0NPk9SN6AvJM1kWE-YqN1lSLV1vUt5ihVCn0C66XxQqAXa149yWk0p1buJc.7Cze-HLuPZN2QXNh?startTime=1754292704000)
